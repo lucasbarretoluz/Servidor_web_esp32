@@ -1,0 +1,10 @@
+{
+  "C_Cpp.intelliSenseEngine": "Tag Parser",
+  "files.associations": {
+    "esp_wifi.h": "c",
+    "esp_netif.h": "c",
+    "cstring": "c",
+    "random": "cpp"
+  },
+  "liveServer.settings.port": 5501
+}
