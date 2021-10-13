@@ -1,0 +1,96 @@
+
+    body{
+        font-weight:400;
+        width:100%;
+        padding:0;
+        margin:0;
+        background:linear-gradient(to bottom,#fdfdfd 20%,#dcdcdc 100%);
+        background-attachment:fixed
+    }
+    body    
+ 
+    .lgn{
+        padding:0;
+        margin:auto
+    }
+
+    .lgn img{
+        display:block;
+        max-width:100%;
+        width:auto;
+        margin:0 auto;
+        padding:10px 0
+    }
+    .l-box,.l-wrn{
+        background:#fff;
+        border-radius:8px;
+        display:block;
+        margin:auto;
+        position:absolute;
+        top:50%;
+        transform:translateY(-50%);
+        left:0;
+        right:0;
+        width:100%;
+        max-width:325px;
+        padding:10px 15px;
+        box-shadow:0 3px 9px 1px rgba(102,102,102,.7)
+    }
+    .l-wrn{
+        padding:20px 15px
+    }
+    .l-wrn 
+
+    .btn-box{
+        float:none;
+        margin:15px auto 0
+    }
+    .l-wrn 
+    .btn.grn{
+        line-height:30px
+    }
+    .btn-lgn,
+    .in-lgn{
+        height:40px;
+        line-height:40px;
+        border:1px solid #DDE8EC;
+        width:100%;
+        margin:0 0 18px;
+        border-radius:8px;
+        padding-left:15px;
+        color:#333
+    }
+    .lb-lgn{
+        color:#909faa;
+        font-weight:700;
+        margin:0 0 4px;
+        display:block
+    }
+    .btn-lgn{
+        background:#909faa;
+        color:#fff;
+        text-transform:uppercase;
+        padding:0 15px;
+        border:none;
+        font-size:16px;
+        margin:10px 0;
+        cursor:pointer
+    }
+    input:focus{
+        outline:0
+    }
+    input[type=password],
+    input[type=text],
+    
+    select{
+        width:95%
+    }
+    input:focus{
+        border:1px solid #00AAE2;
+        box-shadow:0 0 7px 4px rgba(210,245,253,.8)
+    }
+    
+    ::-webkit-input-placeholder{
+        color:#d7d7d7
+    }
+   
